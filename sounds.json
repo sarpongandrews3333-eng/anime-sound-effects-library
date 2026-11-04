@@ -1,0 +1,1663 @@
+{
+  "library": "Anime Sound Effects Library",
+  "audio_file_count": 184,
+  "license_notice": "All source audio licences are unverified. Confirm rights before redistribution or commercial use.",
+  "sounds": [
+    {
+      "name": "TING SOUND EFFECT",
+      "original_drive_path": "Anime SFX/TING SOUND EFFECT.mp3",
+      "path": "audio/general-sfx/ting-sound-effect.mp3",
+      "format": "mp3",
+      "size_bytes": 51546,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Slice Ring",
+      "original_drive_path": "Anime SFX/Slice Ring.wav",
+      "path": "audio/camera-and-transitions/slice-ring.wav",
+      "format": "wav",
+      "size_bytes": 1164814,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Cam shutter 2",
+      "original_drive_path": "Anime SFX/Cam shutter 2.wav",
+      "path": "audio/general-sfx/cam-shutter-2.wav",
+      "format": "wav",
+      "size_bytes": 130528,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Fade-In - Sound Effect-yt.savetube.me",
+      "original_drive_path": "Anime SFX/Fade-In - Sound Effect-yt.savetube.me.mp3",
+      "path": "audio/general-sfx/fade-in-sound-effect-yt-savetube-me.mp3",
+      "format": "mp3",
+      "size_bytes": 31484,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Whoosh Fast 01",
+      "original_drive_path": "Anime SFX/Whoosh Fast 01.wav",
+      "path": "audio/general-sfx/whoosh-fast-01.wav",
+      "format": "wav",
+      "size_bytes": 185214,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Enter",
+      "original_drive_path": "Anime SFX/Enter.mp3",
+      "path": "audio/general-sfx/enter.mp3",
+      "format": "mp3",
+      "size_bytes": 67846,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "pop-6",
+      "original_drive_path": "Anime SFX/pop-6.mp3",
+      "path": "audio/general-sfx/pop-6.mp3",
+      "format": "mp3",
+      "size_bytes": 19714,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Cash Register (Kaching) - Sound Effect (HD)(MP3_160K)",
+      "original_drive_path": "Anime SFX/Cash Register (Kaching) - Sound Effect (HD)(MP3_160K).mp3",
+      "path": "audio/general-sfx/cash-register-kaching-sound-effect-hd-mp3-160k.mp3",
+      "format": "mp3",
+      "size_bytes": 78116,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "SOUND 1",
+      "original_drive_path": "Anime SFX/SOUND 1.mp3",
+      "path": "audio/general-sfx/sound-1.mp3",
+      "format": "mp3",
+      "size_bytes": 38947,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Loading Bar Effect - Sound Effect",
+      "original_drive_path": "Anime SFX/Loading Bar Effect - Sound Effect.mp3",
+      "path": "audio/general-sfx/loading-bar-effect-sound-effect.mp3",
+      "format": "mp3",
+      "size_bytes": 78296,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "rm whoosh",
+      "original_drive_path": "Anime SFX/rm whoosh.wav",
+      "path": "audio/general-sfx/rm-whoosh.wav",
+      "format": "wav",
+      "size_bytes": 749316,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Paper Slide",
+      "original_drive_path": "Anime SFX/Paper Slide.wav",
+      "path": "audio/general-sfx/paper-slide.wav",
+      "format": "wav",
+      "size_bytes": 188904,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "rm click (2)",
+      "original_drive_path": "Anime SFX/rm click (2).wav",
+      "path": "audio/general-sfx/rm-click-2.wav",
+      "format": "wav",
+      "size_bytes": 116360,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "gears",
+      "original_drive_path": "Anime SFX/Mechanical SFX/gears.wav",
+      "path": "audio/mechanical-and-ui/gears.wav",
+      "format": "wav",
+      "size_bytes": 1247288,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Game Counter or Digital Data Readout Sound Pack-yt.savetube.me",
+      "original_drive_path": "Anime SFX/Game Counter or Digital Data Readout Sound Pack-yt.savetube.me.mp3",
+      "path": "audio/general-sfx/game-counter-or-digital-data-readout-sound-pack-yt-savetube-me.mp3",
+      "format": "mp3",
+      "size_bytes": 225835,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Short whoose_1",
+      "original_drive_path": "Anime SFX/Short whoose_1.mp3",
+      "path": "audio/general-sfx/short-whoose-1.mp3",
+      "format": "mp3",
+      "size_bytes": 49208,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "kids yeyy",
+      "original_drive_path": "Anime SFX/kids yeyy.mp3",
+      "path": "audio/general-sfx/kids-yeyy.mp3",
+      "format": "mp3",
+      "size_bytes": 88061,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "eshop ding",
+      "original_drive_path": "Anime SFX/Video Games/eshop ding.mp3",
+      "path": "audio/video-games/eshop-ding.mp3",
+      "format": "mp3",
+      "size_bytes": 68221,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "glitch",
+      "original_drive_path": "Anime SFX/Mechanical SFX/glitch.mp3",
+      "path": "audio/mechanical-and-ui/glitch.mp3",
+      "format": "mp3",
+      "size_bytes": 130607,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Glitch 2",
+      "original_drive_path": "Anime SFX/Glitch 2.wav",
+      "path": "audio/general-sfx/glitch-2.wav",
+      "format": "wav",
+      "size_bytes": 271328,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "game pop",
+      "original_drive_path": "Anime SFX/Video Games/game pop.mp3",
+      "path": "audio/video-games/game-pop.mp3",
+      "format": "mp3",
+      "size_bytes": 5821,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "minecraft hit",
+      "original_drive_path": "Anime SFX/Video Games/minecraft hit.mp3",
+      "path": "audio/video-games/minecraft-hit.mp3",
+      "format": "mp3",
+      "size_bytes": 17900,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "minecraft level up",
+      "original_drive_path": "Anime SFX/Video Games/minecraft level up.mp3",
+      "path": "audio/video-games/minecraft-level-up.mp3",
+      "format": "mp3",
+      "size_bytes": 30529,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Whoosh Digital 01",
+      "original_drive_path": "Anime SFX/Whoosh Digital 01.wav",
+      "path": "audio/general-sfx/whoosh-digital-01.wav",
+      "format": "wav",
+      "size_bytes": 218196,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "pokemon ding",
+      "original_drive_path": "Anime SFX/Video Games/pokemon ding.mp3",
+      "path": "audio/video-games/pokemon-ding.mp3",
+      "format": "mp3",
+      "size_bytes": 34604,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "cinematic boom",
+      "original_drive_path": "Anime SFX/Mechanical SFX/cinematic boom.mp3",
+      "path": "audio/mechanical-and-ui/cinematic-boom.mp3",
+      "format": "mp3",
+      "size_bytes": 198379,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "phone typing",
+      "original_drive_path": "Anime SFX/Mechanical SFX/phone typing.mp3",
+      "path": "audio/mechanical-and-ui/phone-typing.mp3",
+      "format": "mp3",
+      "size_bytes": 272228,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "pop up",
+      "original_drive_path": "Anime SFX/Mechanical SFX/pop up.mp3",
+      "path": "audio/mechanical-and-ui/pop-up.mp3",
+      "format": "mp3",
+      "size_bytes": 19544,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "clock ticking",
+      "original_drive_path": "Anime SFX/Mechanical SFX/clock ticking.mp3",
+      "path": "audio/mechanical-and-ui/clock-ticking.mp3",
+      "format": "mp3",
+      "size_bytes": 259134,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "short digital click",
+      "original_drive_path": "Anime SFX/Mechanical SFX/short digital click.mp3",
+      "path": "audio/mechanical-and-ui/short-digital-click.mp3",
+      "format": "mp3",
+      "size_bytes": 23435,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "low digital click",
+      "original_drive_path": "Anime SFX/Mechanical SFX/low digital click.mp3",
+      "path": "audio/mechanical-and-ui/low-digital-click.mp3",
+      "format": "mp3",
+      "size_bytes": 24395,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "click",
+      "original_drive_path": "Anime SFX/Mechanical SFX/click.mp3",
+      "path": "audio/mechanical-and-ui/click.mp3",
+      "format": "mp3",
+      "size_bytes": 32059,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "apple pay ding",
+      "original_drive_path": "Anime SFX/Mechanical SFX/apple pay ding.mp3",
+      "path": "audio/mechanical-and-ui/apple-pay-ding.mp3",
+      "format": "mp3",
+      "size_bytes": 46524,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Camera Flash",
+      "original_drive_path": "Anime SFX/Camera Flash.mp3",
+      "path": "audio/camera-and-transitions/camera-flash.mp3",
+      "format": "mp3",
+      "size_bytes": 86866,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "minecraft button click",
+      "original_drive_path": "Anime SFX/Video Games/minecraft button click.mp3",
+      "path": "audio/video-games/minecraft-button-click.mp3",
+      "format": "mp3",
+      "size_bytes": 14556,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "minecraft oof",
+      "original_drive_path": "Anime SFX/Video Games/minecraft oof.mp3",
+      "path": "audio/video-games/minecraft-oof.mp3",
+      "format": "mp3",
+      "size_bytes": 3404,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Mouse Click",
+      "original_drive_path": "Anime SFX/Mouse Click.mp3",
+      "path": "audio/general-sfx/mouse-click.mp3",
+      "format": "mp3",
+      "size_bytes": 16213,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "mouse click",
+      "original_drive_path": "Anime SFX/Mechanical SFX/mouse click.mp3",
+      "path": "audio/mechanical-and-ui/mouse-click.mp3",
+      "format": "mp3",
+      "size_bytes": 13490,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "high digital click",
+      "original_drive_path": "Anime SFX/Mechanical SFX/high digital click.mp3",
+      "path": "audio/mechanical-and-ui/high-digital-click.mp3",
+      "format": "mp3",
+      "size_bytes": 20555,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "awww",
+      "original_drive_path": "Anime SFX/awww.mp3",
+      "path": "audio/general-sfx/awww.mp3",
+      "format": "mp3",
+      "size_bytes": 37803,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "BUILD-UP",
+      "original_drive_path": "Anime SFX/BUILD-UP.mp3",
+      "path": "audio/general-sfx/build-up.mp3",
+      "format": "mp3",
+      "size_bytes": 71450,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "stutter",
+      "original_drive_path": "Anime SFX/Mechanical SFX/stutter.mp3",
+      "path": "audio/mechanical-and-ui/stutter.mp3",
+      "format": "mp3",
+      "size_bytes": 45436,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "keyboard press",
+      "original_drive_path": "Anime SFX/keyboard press.mp3",
+      "path": "audio/general-sfx/keyboard-press.mp3",
+      "format": "mp3",
+      "size_bytes": 16958,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "clean fast swoosh",
+      "original_drive_path": "Anime SFX/clean fast swoosh.mp3",
+      "path": "audio/wooshes-risers-impacts/clean-fast-swoosh.mp3",
+      "format": "mp3",
+      "size_bytes": 19680,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "open home",
+      "original_drive_path": "Anime SFX/Video Games/open home.mp3",
+      "path": "audio/video-games/open-home.mp3",
+      "format": "mp3",
+      "size_bytes": 45181,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "minecraft chest open",
+      "original_drive_path": "Anime SFX/Video Games/minecraft chest open.mp3",
+      "path": "audio/video-games/minecraft-chest-open.mp3",
+      "format": "mp3",
+      "size_bytes": 224433,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "game click",
+      "original_drive_path": "Anime SFX/Video Games/game click.mp3",
+      "path": "audio/video-games/game-click.mp3",
+      "format": "mp3",
+      "size_bytes": 29821,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "creeper explode",
+      "original_drive_path": "Anime SFX/Video Games/creeper explode.mp3",
+      "path": "audio/video-games/creeper-explode.mp3",
+      "format": "mp3",
+      "size_bytes": 65551,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "minecraft cave ambient 1",
+      "original_drive_path": "Anime SFX/Video Games/minecraft cave ambient 1.mp3",
+      "path": "audio/video-games/minecraft-cave-ambient-1.mp3",
+      "format": "mp3",
+      "size_bytes": 59278,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "minecraft grass",
+      "original_drive_path": "Anime SFX/Video Games/minecraft grass.mp3",
+      "path": "audio/video-games/minecraft-grass.mp3",
+      "format": "mp3",
+      "size_bytes": 39667,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Slide",
+      "original_drive_path": "Anime SFX/Slide.mp3",
+      "path": "audio/general-sfx/slide.mp3",
+      "format": "mp3",
+      "size_bytes": 73728,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Click sound best",
+      "original_drive_path": "Anime SFX/Click sound best.wav",
+      "path": "audio/general-sfx/click-sound-best.wav",
+      "format": "wav",
+      "size_bytes": 63584,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "sword sling",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/sword sling.mp3",
+      "path": "audio/wooshes-risers-impacts/sword-sling.mp3",
+      "format": "mp3",
+      "size_bytes": 65280,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "minecraft cave ambient 2",
+      "original_drive_path": "Anime SFX/Video Games/minecraft cave ambient 2.mp3",
+      "path": "audio/video-games/minecraft-cave-ambient-2.mp3",
+      "format": "mp3",
+      "size_bytes": 101399,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "ui pop",
+      "original_drive_path": "Anime SFX/Mechanical SFX/ui pop.mp3",
+      "path": "audio/mechanical-and-ui/ui-pop.mp3",
+      "format": "mp3",
+      "size_bytes": 43467,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "minecraft dog bark",
+      "original_drive_path": "Anime SFX/Video Games/minecraft dog bark.mp3",
+      "path": "audio/video-games/minecraft-dog-bark.mp3",
+      "format": "mp3",
+      "size_bytes": 23542,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "deep woosh",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/deep woosh.mp3",
+      "path": "audio/wooshes-risers-impacts/deep-woosh.mp3",
+      "format": "mp3",
+      "size_bytes": 257280,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Rewind",
+      "original_drive_path": "Anime SFX/Rewind.mp3",
+      "path": "audio/general-sfx/rewind.mp3",
+      "format": "mp3",
+      "size_bytes": 76913,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "minecraft dog hit",
+      "original_drive_path": "Anime SFX/Video Games/minecraft dog hit.mp3",
+      "path": "audio/video-games/minecraft-dog-hit.mp3",
+      "format": "mp3",
+      "size_bytes": 12048,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "reality riser",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/reality riser.mp3",
+      "path": "audio/wooshes-risers-impacts/reality-riser.mp3",
+      "format": "mp3",
+      "size_bytes": 449280,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "minecraft critical hit",
+      "original_drive_path": "Anime SFX/Video Games/minecraft critical hit.mp3",
+      "path": "audio/video-games/minecraft-critical-hit.mp3",
+      "format": "mp3",
+      "size_bytes": 23333,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "suspense thud",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/suspense thud.wav",
+      "path": "audio/wooshes-risers-impacts/suspense-thud.wav",
+      "format": "wav",
+      "size_bytes": 634958,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Data Transfer",
+      "original_drive_path": "Anime SFX/Data Transfer.wav",
+      "path": "audio/mechanical-and-ui/data-transfer.wav",
+      "format": "wav",
+      "size_bytes": 1154630,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "minecraft sheep",
+      "original_drive_path": "Anime SFX/Video Games/minecraft sheep.mp3",
+      "path": "audio/video-games/minecraft-sheep.mp3",
+      "format": "mp3",
+      "size_bytes": 7750,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "the nether",
+      "original_drive_path": "Anime SFX/Video Games/the nether.mp3",
+      "path": "audio/video-games/the-nether.mp3",
+      "format": "mp3",
+      "size_bytes": 25344,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "ratchet",
+      "original_drive_path": "Anime SFX/Mechanical SFX/ratchet.mp3",
+      "path": "audio/mechanical-and-ui/ratchet.mp3",
+      "format": "mp3",
+      "size_bytes": 17875,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "flint and steel",
+      "original_drive_path": "Anime SFX/Video Games/flint and steel.mp3",
+      "path": "audio/video-games/flint-and-steel.mp3",
+      "format": "mp3",
+      "size_bytes": 17280,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "ethereal riser",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/ethereal riser.mp3",
+      "path": "audio/wooshes-risers-impacts/ethereal-riser.mp3",
+      "format": "mp3",
+      "size_bytes": 117600,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Censor beep",
+      "original_drive_path": "Anime SFX/Censor beep.mp3",
+      "path": "audio/general-sfx/censor-beep.mp3",
+      "format": "mp3",
+      "size_bytes": 11004,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "riser reverb",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/riser reverb.mp3",
+      "path": "audio/wooshes-risers-impacts/riser-reverb.mp3",
+      "format": "mp3",
+      "size_bytes": 198112,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "metallic riser",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/metallic riser.mp3",
+      "path": "audio/wooshes-risers-impacts/metallic-riser.mp3",
+      "format": "mp3",
+      "size_bytes": 71940,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "wind blowing",
+      "original_drive_path": "Anime SFX/Memes/wind blowing.mp3",
+      "path": "audio/memes-and-reactions/wind-blowing.mp3",
+      "format": "mp3",
+      "size_bytes": 537600,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "cash register",
+      "original_drive_path": "Anime SFX/Mechanical SFX/cash register.wav",
+      "path": "audio/mechanical-and-ui/cash-register.wav",
+      "format": "wav",
+      "size_bytes": 981944,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "airy woosh",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/airy woosh.wav",
+      "path": "audio/wooshes-risers-impacts/airy-woosh.wav",
+      "format": "wav",
+      "size_bytes": 1132504,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "unique woosh",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/unique woosh.wav",
+      "path": "audio/wooshes-risers-impacts/unique-woosh.wav",
+      "format": "wav",
+      "size_bytes": 467892,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "heartbeat",
+      "original_drive_path": "Anime SFX/Memes/heartbeat.mp3",
+      "path": "audio/memes-and-reactions/heartbeat.mp3",
+      "format": "mp3",
+      "size_bytes": 124469,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "minecraft eat",
+      "original_drive_path": "Anime SFX/Video Games/minecraft eat.mp3",
+      "path": "audio/video-games/minecraft-eat.mp3",
+      "format": "mp3",
+      "size_bytes": 27517,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "orchestra hit",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/orchestra hit.mp3",
+      "path": "audio/wooshes-risers-impacts/orchestra-hit.mp3",
+      "format": "mp3",
+      "size_bytes": 65201,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "record scratch",
+      "original_drive_path": "Anime SFX/Memes/record scratch.mp3",
+      "path": "audio/memes-and-reactions/record-scratch.mp3",
+      "format": "mp3",
+      "size_bytes": 44221,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "falling",
+      "original_drive_path": "Anime SFX/Memes/falling.mp3",
+      "path": "audio/memes-and-reactions/falling.mp3",
+      "format": "mp3",
+      "size_bytes": 137634,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "dark riser",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/dark riser.wav",
+      "path": "audio/wooshes-risers-impacts/dark-riser.wav",
+      "format": "wav",
+      "size_bytes": 1554480,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "angels singing",
+      "original_drive_path": "Anime SFX/Memes/angels singing.mp3",
+      "path": "audio/memes-and-reactions/angels-singing.mp3",
+      "format": "mp3",
+      "size_bytes": 442327,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "glitter transition",
+      "original_drive_path": "Anime SFX/Memes/glitter transition.mp3",
+      "path": "audio/memes-and-reactions/glitter-transition.mp3",
+      "format": "mp3",
+      "size_bytes": 63029,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "ding idea",
+      "original_drive_path": "Anime SFX/Memes/ding idea.mp3",
+      "path": "audio/memes-and-reactions/ding-idea.mp3",
+      "format": "mp3",
+      "size_bytes": 47993,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "wind gust woosh",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/wind gust woosh.wav",
+      "path": "audio/wooshes-risers-impacts/wind-gust-woosh.wav",
+      "format": "wav",
+      "size_bytes": 1336648,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "awkward crickets",
+      "original_drive_path": "Anime SFX/Memes/awkward crickets.mp3",
+      "path": "audio/memes-and-reactions/awkward-crickets.mp3",
+      "format": "mp3",
+      "size_bytes": 71817,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "spongebob bubbles",
+      "original_drive_path": "Anime SFX/Memes/spongebob bubbles.mp3",
+      "path": "audio/memes-and-reactions/spongebob-bubbles.mp3",
+      "format": "mp3",
+      "size_bytes": 115065,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "impact transition",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/impact transition.mp3",
+      "path": "audio/wooshes-risers-impacts/impact-transition.mp3",
+      "format": "mp3",
+      "size_bytes": 137472,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "soft sci-fi woosh",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/soft sci-fi woosh.wav",
+      "path": "audio/wooshes-risers-impacts/soft-sci-fi-woosh.wav",
+      "format": "wav",
+      "size_bytes": 331926,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "crowd clapping",
+      "original_drive_path": "Anime SFX/Memes/crowd clapping.mp3",
+      "path": "audio/memes-and-reactions/crowd-clapping.mp3",
+      "format": "mp3",
+      "size_bytes": 110676,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "sad music 2",
+      "original_drive_path": "Anime SFX/Memes/sad music 2.mp3",
+      "path": "audio/memes-and-reactions/sad-music-2.mp3",
+      "format": "mp3",
+      "size_bytes": 214748,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "energy burst",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/energy burst.mp3",
+      "path": "audio/wooshes-risers-impacts/energy-burst.mp3",
+      "format": "mp3",
+      "size_bytes": 91115,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "yeet",
+      "original_drive_path": "Anime SFX/Memes/yeet.mp3",
+      "path": "audio/memes-and-reactions/yeet.mp3",
+      "format": "mp3",
+      "size_bytes": 32936,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "alert",
+      "original_drive_path": "Anime SFX/Memes/alert.mp3",
+      "path": "audio/memes-and-reactions/alert.mp3",
+      "format": "mp3",
+      "size_bytes": 32309,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "short woosh",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/short woosh.wav",
+      "path": "audio/wooshes-risers-impacts/short-woosh.wav",
+      "format": "wav",
+      "size_bytes": 840512,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "sad music 1",
+      "original_drive_path": "Anime SFX/Memes/sad music 1.mp3",
+      "path": "audio/memes-and-reactions/sad-music-1.mp3",
+      "format": "mp3",
+      "size_bytes": 243587,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Wine Glass Shatter",
+      "original_drive_path": "Anime SFX/Wine Glass Shatter.mp3",
+      "path": "audio/general-sfx/wine-glass-shatter.mp3",
+      "format": "mp3",
+      "size_bytes": 133898,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "mind riser",
+      "original_drive_path": "Anime SFX/Wooshes, Risers and Hits/mind riser.mp3",
+      "path": "audio/wooshes-risers-impacts/mind-riser.mp3",
+      "format": "mp3",
+      "size_bytes": 75232,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "tuff music",
+      "original_drive_path": "Anime SFX/Memes/tuff music.mp3",
+      "path": "audio/memes-and-reactions/tuff-music.mp3",
+      "format": "mp3",
+      "size_bytes": 254872,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "typing",
+      "original_drive_path": "Anime SFX/typing.mp3",
+      "path": "audio/general-sfx/typing.mp3",
+      "format": "mp3",
+      "size_bytes": 608301,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "splat",
+      "original_drive_path": "Anime SFX/Memes/splat.mp3",
+      "path": "audio/memes-and-reactions/splat.mp3",
+      "format": "mp3",
+      "size_bytes": 27920,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "kid cheering",
+      "original_drive_path": "Anime SFX/Memes/kid cheering.mp3",
+      "path": "audio/memes-and-reactions/kid-cheering.mp3",
+      "format": "mp3",
+      "size_bytes": 105661,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "villager huh",
+      "original_drive_path": "Anime SFX/Video Games/villager huh.mp3",
+      "path": "audio/video-games/villager-huh.mp3",
+      "format": "mp3",
+      "size_bytes": 18240,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "throw",
+      "original_drive_path": "Anime SFX/Memes/throw.mp3",
+      "path": "audio/memes-and-reactions/throw.mp3",
+      "format": "mp3",
+      "size_bytes": 27920,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "dolphin talk",
+      "original_drive_path": "Anime SFX/Memes/dolphin talk.mp3",
+      "path": "audio/memes-and-reactions/dolphin-talk.mp3",
+      "format": "mp3",
+      "size_bytes": 61775,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "drum roll",
+      "original_drive_path": "Anime SFX/Memes/drum roll.mp3",
+      "path": "audio/memes-and-reactions/drum-roll.mp3",
+      "format": "mp3",
+      "size_bytes": 199074,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "censor",
+      "original_drive_path": "Anime SFX/Memes/censor.mp3",
+      "path": "audio/memes-and-reactions/censor.mp3",
+      "format": "mp3",
+      "size_bytes": 49863,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "crowd boo",
+      "original_drive_path": "Anime SFX/Memes/crowd boo.mp3",
+      "path": "audio/memes-and-reactions/crowd-boo.mp3",
+      "format": "mp3",
+      "size_bytes": 128857,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Wrong Answer",
+      "original_drive_path": "Anime SFX/Wrong Answer.mp3",
+      "path": "audio/general-sfx/wrong-answer.mp3",
+      "format": "mp3",
+      "size_bytes": 28442,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "fail 1",
+      "original_drive_path": "Anime SFX/Memes/fail 1.mp3",
+      "path": "audio/memes-and-reactions/fail-1.mp3",
+      "format": "mp3",
+      "size_bytes": 115065,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "fart",
+      "original_drive_path": "Anime SFX/Memes/fart.mp3",
+      "path": "audio/memes-and-reactions/fart.mp3",
+      "format": "mp3",
+      "size_bytes": 39832,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Digital counting",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Digital counting.mp3",
+      "path": "audio/general-sfx/digital-counting.mp3",
+      "format": "mp3",
+      "size_bytes": 271578,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "rewind",
+      "original_drive_path": "Anime SFX/Memes/rewind.mp3",
+      "path": "audio/memes-and-reactions/rewind.mp3",
+      "format": "mp3",
+      "size_bytes": 92495,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "glass break",
+      "original_drive_path": "Anime SFX/Memes/glass break.mp3",
+      "path": "audio/memes-and-reactions/glass-break.mp3",
+      "format": "mp3",
+      "size_bytes": 36697,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "badum tss",
+      "original_drive_path": "Anime SFX/Memes/badum tss.mp3",
+      "path": "audio/memes-and-reactions/badum-tss.mp3",
+      "format": "mp3",
+      "size_bytes": 64910,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "suspense",
+      "original_drive_path": "Anime SFX/Memes/suspense.mp3",
+      "path": "audio/memes-and-reactions/suspense.mp3",
+      "format": "mp3",
+      "size_bytes": 184655,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "vine boom",
+      "original_drive_path": "Anime SFX/Memes/vine boom.mp3",
+      "path": "audio/memes-and-reactions/vine-boom.mp3",
+      "format": "mp3",
+      "size_bytes": 21230,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "dun dun dun",
+      "original_drive_path": "Anime SFX/Memes/dun dun dun.mp3",
+      "path": "audio/memes-and-reactions/dun-dun-dun.mp3",
+      "format": "mp3",
+      "size_bytes": 78075,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "flashback",
+      "original_drive_path": "Anime SFX/Memes/flashback.mp3",
+      "path": "audio/memes-and-reactions/flashback.mp3",
+      "format": "mp3",
+      "size_bytes": 83718,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Paper Flip Sound Effect",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Paper Flip Sound Effect.mp3",
+      "path": "audio/general-sfx/paper-flip-sound-effect.mp3",
+      "format": "mp3",
+      "size_bytes": 27722,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Shutter Click sound effect 2",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Shutter Click sound effect 2.mp3",
+      "path": "audio/general-sfx/shutter-click-sound-effect-2.mp3",
+      "format": "mp3",
+      "size_bytes": 16437,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "fail 2",
+      "original_drive_path": "Anime SFX/Memes/fail 2.mp3",
+      "path": "audio/memes-and-reactions/fail-2.mp3",
+      "format": "mp3",
+      "size_bytes": 95630,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "punch 1",
+      "original_drive_path": "Anime SFX/Memes/punch 1.mp3",
+      "path": "audio/memes-and-reactions/punch-1.mp3",
+      "format": "mp3",
+      "size_bytes": 23532,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "phone ringtone",
+      "original_drive_path": "Anime SFX/Memes/phone ringtone.mp3",
+      "path": "audio/memes-and-reactions/phone-ringtone.mp3",
+      "format": "mp3",
+      "size_bytes": 141396,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "bass drop sound effect",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/bass drop sound effect.mp3",
+      "path": "audio/general-sfx/bass-drop-sound-effect.mp3",
+      "format": "mp3",
+      "size_bytes": 101420,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "swipes",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/swipes.mp3",
+      "path": "audio/general-sfx/swipes.mp3",
+      "format": "mp3",
+      "size_bytes": 163933,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "slap",
+      "original_drive_path": "Anime SFX/Memes/slap.mp3",
+      "path": "audio/memes-and-reactions/slap.mp3",
+      "format": "mp3",
+      "size_bytes": 26666,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Lens flare transition sound effect",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Lens flare transition sound effect.mp3",
+      "path": "audio/camera-and-transitions/lens-flare-transition-sound-effect.mp3",
+      "format": "mp3",
+      "size_bytes": 14765,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "ES_Riser Suction 5 - SFX Producer",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/ES_Riser Suction 5 - SFX Producer.mp3",
+      "path": "audio/wooshes-risers-impacts/es-riser-suction-5-sfx-producer.mp3",
+      "format": "mp3",
+      "size_bytes": 119371,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "punch 2",
+      "original_drive_path": "Anime SFX/Memes/punch 2.mp3",
+      "path": "audio/memes-and-reactions/punch-2.mp3",
+      "format": "mp3",
+      "size_bytes": 23532,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "scream",
+      "original_drive_path": "Anime SFX/Memes/scream.mp3",
+      "path": "audio/memes-and-reactions/scream.mp3",
+      "format": "mp3",
+      "size_bytes": 41086,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "rubber duck plop",
+      "original_drive_path": "Anime SFX/Memes/rubber duck plop.mp3",
+      "path": "audio/memes-and-reactions/rubber-duck-plop.mp3",
+      "format": "mp3",
+      "size_bytes": 27920,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "whoosh sound effect",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/whoosh sound effect.mp3",
+      "path": "audio/general-sfx/whoosh-sound-effect.mp3",
+      "format": "mp3",
+      "size_bytes": 17691,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Clock ticking fast",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Clock ticking fast.mp3",
+      "path": "audio/general-sfx/clock-ticking-fast.mp3",
+      "format": "mp3",
+      "size_bytes": 213296,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Cash Register sounds effects",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Cash Register sounds effects.mp3",
+      "path": "audio/general-sfx/cash-register-sounds-effects.mp3",
+      "format": "mp3",
+      "size_bytes": 38171,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "cash-register-purchase-87313",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/cash-register-purchase-87313.mp3",
+      "path": "audio/general-sfx/cash-register-purchase-87313.mp3",
+      "format": "mp3",
+      "size_bytes": 56160,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "keyboard press",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/keyboard press.mp3",
+      "path": "audio/general-sfx/keyboard-press-2.mp3",
+      "format": "mp3",
+      "size_bytes": 16958,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "clean-fast-swoosh-14784",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/clean-fast-swoosh-14784.mp3",
+      "path": "audio/wooshes-risers-impacts/clean-fast-swoosh-14784.mp3",
+      "format": "mp3",
+      "size_bytes": 19680,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Game Menu Select Sound Effect",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Game Menu Select Sound Effect.mp3",
+      "path": "audio/general-sfx/game-menu-select-sound-effect.mp3",
+      "format": "mp3",
+      "size_bytes": 9500,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Sci Fi UI Sounds",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Sci Fi UI Sounds.mp3",
+      "path": "audio/general-sfx/sci-fi-ui-sounds.mp3",
+      "format": "mp3",
+      "size_bytes": 515480,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Paper Slide 03",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Paper Slide 03.wav",
+      "path": "audio/general-sfx/paper-slide-03.wav",
+      "format": "wav",
+      "size_bytes": 188904,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "correct sfx",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/correct sfx.mp3",
+      "path": "audio/general-sfx/correct-sfx.mp3",
+      "format": "mp3",
+      "size_bytes": 34065,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "party horn",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/party horn.mp3",
+      "path": "audio/general-sfx/party-horn.mp3",
+      "format": "mp3",
+      "size_bytes": 26561,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "good-idea",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/good-idea.mp3",
+      "path": "audio/general-sfx/good-idea.mp3",
+      "format": "mp3",
+      "size_bytes": 143150,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "hmmm",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/hmmm.mp3",
+      "path": "audio/general-sfx/hmmm.mp3",
+      "format": "mp3",
+      "size_bytes": 23118,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Heavy object Hit and body thud",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Heavy object Hit and body thud.mp3",
+      "path": "audio/general-sfx/heavy-object-hit-and-body-thud.mp3",
+      "format": "mp3",
+      "size_bytes": 47366,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Censor beep sound effect",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Censor beep sound effect.mp3",
+      "path": "audio/general-sfx/censor-beep-sound-effect.mp3",
+      "format": "mp3",
+      "size_bytes": 11004,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "fart",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/fart.mp3",
+      "path": "audio/general-sfx/fart.mp3",
+      "format": "mp3",
+      "size_bytes": 16775,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "crowd shocked",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/crowd shocked.mp3",
+      "path": "audio/general-sfx/crowd-shocked.mp3",
+      "format": "mp3",
+      "size_bytes": 34835,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Clock Ticking Sound Effect",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Clock Ticking Sound Effect.mp3",
+      "path": "audio/general-sfx/clock-ticking-sound-effect.mp3",
+      "format": "mp3",
+      "size_bytes": 130989,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Mountain Audio - New Idea Notification",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Mountain Audio - New Idea Notification.mp3",
+      "path": "audio/general-sfx/mountain-audio-new-idea-notification.mp3",
+      "format": "mp3",
+      "size_bytes": 162864,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "UI Data Loading Sound Effect",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/UI Data Loading Sound Effect.mp3",
+      "path": "audio/general-sfx/ui-data-loading-sound-effect.mp3",
+      "format": "mp3",
+      "size_bytes": 241100,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "kids yeyy",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/kids yeyy.mp3",
+      "path": "audio/general-sfx/kids-yeyy-2.mp3",
+      "format": "mp3",
+      "size_bytes": 88061,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Mario Coin Sound",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Mario Coin Sound.mp3",
+      "path": "audio/general-sfx/mario-coin-sound.mp3",
+      "format": "mp3",
+      "size_bytes": 71191,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "typing keyboard",
+      "original_drive_path": "Anime SFX/Mechanical SFX/typing keyboard.mp3",
+      "path": "audio/mechanical-and-ui/typing-keyboard.mp3",
+      "format": "mp3",
+      "size_bytes": 187400,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Message sound",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Message sound.mp3",
+      "path": "audio/general-sfx/message-sound.mp3",
+      "format": "mp3",
+      "size_bytes": 32145,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Shutter Click sound effect",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Shutter Click sound effect.mp3",
+      "path": "audio/general-sfx/shutter-click-sound-effect.mp3",
+      "format": "mp3",
+      "size_bytes": 15405,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "awww",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/awww.mp3",
+      "path": "audio/general-sfx/awww-2.mp3",
+      "format": "mp3",
+      "size_bytes": 37803,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "camera-shutter-6305",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/camera-shutter-6305.mp3",
+      "path": "audio/camera-and-transitions/camera-shutter-6305.mp3",
+      "format": "mp3",
+      "size_bytes": 10867,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "woosh-building-109596",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/woosh-building-109596.mp3",
+      "path": "audio/wooshes-risers-impacts/woosh-building-109596.mp3",
+      "format": "mp3",
+      "size_bytes": 82755,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Click - Sound Effect (HD)",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Click - Sound Effect (HD).mp3",
+      "path": "audio/general-sfx/click-sound-effect-hd.mp3",
+      "format": "mp3",
+      "size_bytes": 152734,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "mixkit-cinematic-wind-swoosh-1471",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/mixkit-cinematic-wind-swoosh-1471.wav",
+      "path": "audio/wooshes-risers-impacts/mixkit-cinematic-wind-swoosh-1471.wav",
+      "format": "wav",
+      "size_bytes": 384278,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "009",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/009.wav",
+      "path": "audio/general-sfx/009.wav",
+      "format": "wav",
+      "size_bytes": 578372,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "camera-13695",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/camera-13695.mp3",
+      "path": "audio/camera-and-transitions/camera-13695.mp3",
+      "format": "mp3",
+      "size_bytes": 13374,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "fast-whoosh-118248",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/fast-whoosh-118248.mp3",
+      "path": "audio/general-sfx/fast-whoosh-118248.mp3",
+      "format": "mp3",
+      "size_bytes": 38452,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Whoosh Sound Effects",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Whoosh Sound Effects.mp3",
+      "path": "audio/general-sfx/whoosh-sound-effects.mp3",
+      "format": "mp3",
+      "size_bytes": 229293,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "004",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/004.wav",
+      "path": "audio/general-sfx/004.wav",
+      "format": "wav",
+      "size_bytes": 549764,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "boom-geomorphism-cinematic-trailer",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/boom-geomorphism-cinematic-trailer.mp3",
+      "path": "audio/general-sfx/boom-geomorphism-cinematic-trailer.mp3",
+      "format": "mp3",
+      "size_bytes": 509184,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "-camera-shutter",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/-camera-shutter.wav",
+      "path": "audio/camera-and-transitions/camera-shutter.wav",
+      "format": "wav",
+      "size_bytes": 165986,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "punch",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/punch.mp3",
+      "path": "audio/general-sfx/punch.mp3",
+      "format": "mp3",
+      "size_bytes": 24064,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "001",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/001.wav",
+      "path": "audio/general-sfx/001.wav",
+      "format": "wav",
+      "size_bytes": 299804,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "003",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/003.wav",
+      "path": "audio/general-sfx/003.wav",
+      "format": "wav",
+      "size_bytes": 271328,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "008",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/008.wav",
+      "path": "audio/general-sfx/008.wav",
+      "format": "wav",
+      "size_bytes": 405104,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "006",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/006.wav",
+      "path": "audio/general-sfx/006.wav",
+      "format": "wav",
+      "size_bytes": 749274,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Cash Register (Kaching)",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Cash Register (Kaching).mp3",
+      "path": "audio/general-sfx/cash-register-kaching.mp3",
+      "format": "mp3",
+      "size_bytes": 185793,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Pop",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Pop.mp3",
+      "path": "audio/general-sfx/pop.mp3",
+      "format": "mp3",
+      "size_bytes": 43395,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "002",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/002.wav",
+      "path": "audio/general-sfx/002.wav",
+      "format": "wav",
+      "size_bytes": 470798,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "005",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/005.wav",
+      "path": "audio/general-sfx/005.wav",
+      "format": "wav",
+      "size_bytes": 542264,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "keyboard-typing-5997",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/keyboard-typing-5997.mp3",
+      "path": "audio/general-sfx/keyboard-typing-5997.mp3",
+      "format": "mp3",
+      "size_bytes": 312000,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Pop up Sound effect ( 256kbps cbr )",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Pop up Sound effect ( 256kbps cbr ).mp3",
+      "path": "audio/general-sfx/pop-up-sound-effect-256kbps-cbr.mp3",
+      "format": "mp3",
+      "size_bytes": 129127,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "007",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/007.wav",
+      "path": "audio/general-sfx/007.wav",
+      "format": "wav",
+      "size_bytes": 461312,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "Windows XP Error",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/Windows XP Error.mp3",
+      "path": "audio/general-sfx/windows-xp-error.mp3",
+      "format": "mp3",
+      "size_bytes": 50298,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "cash ting",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/cash ting.mp3",
+      "path": "audio/general-sfx/cash-ting.mp3",
+      "format": "mp3",
+      "size_bytes": 33131,
+      "license_status": "Unverified",
+      "notes": "Verify the original source licence and redistribution permissions before public reuse."
+    },
+    {
+      "name": "01 Beating",
+      "original_drive_path": "Anime SFX/SFX Sound Effects/01 Beating.wav",
+      "path": "audio/foley-and-impacts/01-beating.flac",
+      "format": "flac",
+      "size_bytes": 2355317,
+      "license_status": "Unverified",
+      "notes": "Losslessly converted from the original WAV to FLAC to make the download smaller. Verify the original source licence before public reuse."
+    }
+  ]
+}
